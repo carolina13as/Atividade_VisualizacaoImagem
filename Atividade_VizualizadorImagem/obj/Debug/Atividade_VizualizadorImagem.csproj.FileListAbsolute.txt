@@ -1,0 +1,11 @@
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\bin\Debug\Atividade_VizualizadorImagem.exe.config
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\bin\Debug\Atividade_VizualizadorImagem.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\bin\Debug\Atividade_VizualizadorImagem.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\obj\Debug\Atividade_VizualizadorImagem.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\obj\Debug\Atividade_VizualizadorImagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\obj\Debug\Atividade_VizualizadorImagem.Form1.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\obj\Debug\Atividade_VizualizadorImagem.Properties.Resources.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\obj\Debug\Atividade_VizualizadorImagem.csproj.GenerateResource.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\obj\Debug\Atividade_VizualizadorImagem.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\obj\Debug\Atividade_VizualizadorImagem.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade_VizualizadorImagem\Atividade_VizualizadorImagem\obj\Debug\Atividade_VizualizadorImagem.pdb
